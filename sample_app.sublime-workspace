@@ -437,6 +437,8 @@
 	"file_history":
 	[
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/Gemfile",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/config/initializers/secret_token.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/README.rdoc",
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/demo_app/app/models/user.rb",
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/demo_app/app/models/micropost.rb",
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/demo_app/Gemfile",
