@@ -1,0 +1,691 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"end	end (ERB)"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"cl",
+				"cl	classify { |e| .. }"
+			],
+			[
+				"arti",
+				"article_params"
+			],
+			[
+				"art",
+				"article_params"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"resou",
+				"resources"
+			],
+			[
+				"rep",
+				"repitions"
+			],
+			[
+				"Tem",
+				"TEMPLATE"
+			],
+			[
+				"Te",
+				"TEMPLATE"
+			],
+			[
+				"tr",
+				"treehouse"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"acocu",
+				"account3"
+			],
+			[
+				"tra",
+				"transactions"
+			],
+			[
+				"Tr",
+				"Treehouse Island}/"
+			],
+			[
+				"ex",
+				"experience"
+			],
+			[
+				"forma",
+				"formats"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"form",
+				"formats"
+			],
+			[
+				"For",
+				"FormatAttributes"
+			],
+			[
+				"say",
+				"say_something"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"re",
+				"return_from_proc"
+			],
+			[
+				"return_",
+				"return_from_proc"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"my_",
+				"my_lambda"
+			],
+			[
+				"ca",
+				"call"
+			],
+			[
+				"get",
+				"get_name"
+			],
+			[
+				"an",
+				"animals"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"al",
+				"altered"
+			],
+			[
+				"Paren",
+				"Parent"
+			],
+			[
+				"sin",
+				"sing_me_a_song"
+			],
+			[
+				"els",
+				"elsif	elsif ..."
+			],
+			[
+				"bear",
+				"bear_moved"
+			],
+			[
+				"pt",
+				"puts"
+			],
+			[
+				"prin",
+				"print_last_word"
+			],
+			[
+				"pritn",
+				"print_first_word"
+			],
+			[
+				"bre",
+				"break_words"
+			],
+			[
+				"so",
+				"sort_words"
+			],
+			[
+				"start",
+				"start_point"
+			],
+			[
+				"sta",
+				"start_point"
+			],
+			[
+				"se",
+				"secret_formula"
+			],
+			[
+				"di",
+				"devide"
+			],
+			[
+				"su",
+				"substract"
+			],
+			[
+				"cure",
+				"current_line"
+			],
+			[
+				"cur",
+				"current_line"
+			],
+			[
+				"cu",
+				"current_file"
+			],
+			[
+				"pri",
+				"print_a_line"
+			],
+			[
+				"pir",
+				"print_a_line"
+			],
+			[
+				"print",
+				"print_all"
+			],
+			[
+				"a",
+				"amount_of_crackers"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"che",
+				"cheese_and_crackers"
+			],
+			[
+				"p",
+				"puts"
+			],
+			[
+				"puts",
+				"puts_one"
+			],
+			[
+				"put",
+				"puts_two_again"
+			],
+			[
+				"ar",
+				"arg2"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"st",
+				"STDIN"
+			],
+			[
+				"lin",
+				"line1"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"File",
+				"File	File.open(\"..\") { |file| .. }"
+			],
+			[
+				"pr",
+				"prompt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 361.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag e",
+				"Package Control: Install Package"
+			],
+			[
+				"pakce ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: directory()"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"pakc",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"ssr",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Packe",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"subl",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Sublime",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Instl",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 87.0,
+		"history":
+		[
+			"ls",
+			"ruby ex13.rb",
+			" ruby ex13.rb",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/Gemfile",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/demo_app/app/models/user.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/demo_app/app/models/micropost.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/demo_app/Gemfile",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/first_app/README.md",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/first_app/Gemfile",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/first_app/Gemfile.lock",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/app/models/article.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/app/views/articles/new.html.erb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/app/views/articles/_form.html.erb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/app/views/articles/show.html.erb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/app/views/articles/edit.html.erb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/app/controllers/articles_controller.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/config/routes.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/app/views/welcome/index.html.erb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/blog/app/views/articles/index.html.erb",
+		"/Users/christian_classen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse - Ruby/Projects/treebook/db/migrate/20140512161733_create_statuses.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Modules/module3.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Procs & Lambdas/procs.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Loops/loops.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Loops/until_loop.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Loops/loop_flow.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Loops/break_loop.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Loops/break_loop2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Blocks/yield2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Blocks/yield.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Blocks/redo.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Blocks/retry.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Blocks/ensure.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Blocks/block2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/simple_methods.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Blocks/begin-end-block.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Blocks/block1.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Testing/test3.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/test1.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/test2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/observable.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/benchmark.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/uri.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/logging.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/FileUtils.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/Ruby Core/ERB.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/erb-bank_account.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/YAML.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/struct.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/IO.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/comparable.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/enumerable.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/symbols2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/symbols.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/module3.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/module2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/module.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/procs-lambdas.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/procs-lambdas2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/procs.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/yield2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/yield3.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/yield.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/begin-end-block.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/block2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/block3.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/ensure.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/block1.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/retry.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/redo.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/break_loop2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/loop_flow.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/break_loop.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/for_loop.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/while_loop.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/until_loop.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/loops.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/bank_account.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/control_flow.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/objects_classes.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Treehouse/Ruby Basics/variable_intro.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/projects/ex47/lib/ex47.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/projects/ex47/test/test_ex47.rb",
+		"/Users/christian_classen/Tresors/SwissLuck/IT/BackEnd/projects/skeleton/test/test_NAME.rb",
+		"/Users/christian_classen/Tresors/NAME.gemspec",
+		"/Users/christian_classen/Tresors/SwissLuck/IT/BackEnd/Repos/swissluck-practice/README.txt",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex44-2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/NAME.gemspec",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/NAME.gemspec.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/test_NAME.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex44.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex39.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex40.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex38.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex33.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex35.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex31.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex32.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex30.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex29.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex28.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex25.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex26.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex24.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex21.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex15.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex20.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex2.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex19.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex18.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex17.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/copy.txt",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex16.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/test.txt",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex15_sample.txt",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex14.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex13.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex1.rb",
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex12.rb",
+		"/Users/christian_classen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"self",
+			"\n	",
+			"#",
+			"prompt",
+			" \n",
+			"prompt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 202.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sample_app.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"ex21.rb"
+			],
+			[
+				"20",
+				"ex20.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
