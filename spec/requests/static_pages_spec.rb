@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe "StaticPages" do	# Controller auswählen (hier StaticPage)
+describe "StaticPages" do	# Controller für Tests auswählen (hier StaticPage)
 
   describe "Home Page" do	# Aktion auswählen (hier Home Aktion / Page)
     it "should have the content 'Sample App'" do	# Beschreibe das gewünschte Ergebnis
