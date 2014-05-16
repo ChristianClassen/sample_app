@@ -3,15 +3,22 @@ require 'spec_helper'
 describe "StaticPages" do	# Controller für Tests auswählen (hier StaticPage)
 
   describe "Home Page" do	# Aktion auswählen (hier Home Aktion / Page)
+
     it "should have the content 'Sample App'" do	# Beschreibe das gewünschte Ergebnis
       visit '/static_pages/home'		# Wo soll getestet werden?
       expect(page).to have_content('Sample App') # Drücke Ergebnis in Code aus
     end
 
-    it "should have the title 'Home'"do
+    it "should habe the base title" do
     	visit '/static_pages/home'
-    	expect(page).to have_title("Ruby on Rails Tutorial Sample App | Home")
+    	expect(page).to have_title("Ruby on Rails Tutorial Sample App")
     end
+
+    it "should not have custom page title 'Home'"do
+    	visit '/static_pages/home'
+    	expect(page).not_to have_title("| Home")
+    end
+
   end #end Home Page
 
   describe "Help Page" do
