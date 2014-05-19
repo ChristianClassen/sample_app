@@ -1,21 +1,18 @@
 <!DOCTYPE html>
 <html>
-	<head>
-	  <title><%= full_title(yield(:title)) %></title>
-	  <%= stylesheet_link_tag    "application", media: "all",
-	  							 "data-turbolinks-track" => true %>
-	  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
-	  <%= csrf_meta_tags %>
-	</head>
+  <head>
+    <title><%= full_title(yield(:title)) %></title>
+    <%= stylesheet_link_tag "application", media: "all",
+                                           "data-turbolinks-track" => true %>
+    <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    <%= csrf_meta_tags %>
 
-	<body>
-		<%= render "layouts/header" %> <!-- Fügt den Header Partial (Header Baustein) ins layout ein -->
-
-		<div class="container">
-			<%= yield %>
-			<%= render "layouts/footer" %> <!-- Fügt den Footer Partial (Footer Baustein) ins layout ein -->
-		</div> <!-- end container -->
-
-	</body>
-
+  </head>
+  <body>
+    <%= render 'layouts/header' %>
+    <div class="container">
+      <%= yield %>
+      <%= render 'layouts/footer' %>
+    </div>
+  </body>
 </html>

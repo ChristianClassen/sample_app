@@ -8,4 +8,7 @@ class StaticPagesController < ApplicationController
   def about #hat Verbindung zu About View (about.html.erb)
   end
 
+  def contact
+  end
+
 end
