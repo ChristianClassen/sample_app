@@ -5,6 +5,7 @@ class StaticPagesController < ApplicationController
   def help	#hat Verbindung zu Help View
   end
 
-  def about 
+  def about #hat Verbindung zu About View (about.html.erb)
   end
+
 end
