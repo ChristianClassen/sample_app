@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"password_",
+				"password_confirmation"
+			],
+			[
+				"us",
+				"user_with_same_email"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
 				"end",
 				"end	end (ERB)"
 			],
@@ -436,6 +452,28 @@
 	},
 	"file_history":
 	[
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/spec/models/user_spec.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/models/user.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/db/migrate/20140519190503_add_index_to_users_email.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/views/users/new.html.erb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/config/routes.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/helpers/users_helper.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/controllers/users_controller.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/spec/support/utilities.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/foobar",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/helpers/application_helper.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/spec/spec_helper.rb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/Rakefile",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/db/test.sqlite3",
+		"/Users/christian_classen/Desktop/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/app/controllers/static_pages_controller.rb",
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/Gemfile",
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/config/initializers/secret_token.rb",
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Rails Tutorial/tutorial projects/sample_app/README.rdoc",
@@ -541,20 +579,7 @@
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex24.rb",
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex21.rb",
 		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex15.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex20.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex2.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex19.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex18.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex17.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/copy.txt",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex16.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/test.txt",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex15_sample.txt",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex14.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex13.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex1.rb",
-		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex12.rb",
-		"/Users/christian_classen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+		"/Users/christian_classen/Box Sync/Privat/Programmierung/Ruby/Learn Ruby the Hard Way/ex20.rb"
 	],
 	"find":
 	{
@@ -651,6 +676,34 @@
 		"selected_items":
 		[
 			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"user",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"new.",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"foot",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"he",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
 				"",
 				"ex21.rb"
 			],
@@ -684,7 +737,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 227.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
